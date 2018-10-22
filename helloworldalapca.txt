@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+	<title>Hello World</title>	
+		<table style="width:100%" border="1">
+			<th><h1>Alpaca</h1></th>
+			<tr><td><a href="http://www.cherrycrestfarm.com/The-Amazing-Fun-Time-Blog/Interesting-Facts-About-Alpacas/">Cherry Crest Farm
+				<a href="https://www.livescience.com/52668-alpacas.html">Live Science
+				<ahref="https://modernfarmer.com/2015/09/10-things-you-didnt-know-about-alpacas/">Modern Farmer
+					</td></tr>
+			<td><tr><td>Vicugna Pacos</td></tr>
+		
+		<td><img src="https://visithillsboroughnc.com/wp-content/uploads/2017/08/Pixie_Headshot.jpg" HEIGHT="420" WIDTH="384"></td>
+				<!-- Sep 10 -->	
+		</table>		
+</html>
